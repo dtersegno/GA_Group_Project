@@ -1,5 +1,4 @@
 Health Outcomes Modeled Over Multiple CalEnviroScreen Reporting Periods
-
 ---
 We aggregated data from `4` <a href = "https://oehha.ca.gov/calenviroscreen/about-calenviroscreen">CA OEHHA CalEnviro Screen</a> reports, appended warehouse counts extracted from <a href = "link"> US Census Business Data</a> and trained numerous estimators, however none reliably modelled health outcomes using the aggregated data.
 
